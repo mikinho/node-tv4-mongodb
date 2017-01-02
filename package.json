@@ -1,0 +1,36 @@
+{
+  "name": "tv4-mongodb",
+  "version": "0.0.1",
+  "description": "Helper module for tv4 to validate against MongoDB ObjectId.",
+  "main": "tv4-mongodb.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikinho/tv4-mongodb.git"
+  },
+  "keywords": [
+    "format",
+    "tv4",
+    "validator",
+    "schema",
+    "json",
+    "bson",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Michael Welter <michael@yammm.com> (https://twitter.com/mikinho)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikinho/tv4-mongodb/issues"
+  },
+  "homepage": "https://github.com/mikinho/tv4-mongodb#readme",
+  "dependencies": {
+    "bson": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "tv4": "^1.2.7"
+  }
+}
