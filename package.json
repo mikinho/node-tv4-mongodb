@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikinho/tv4-mongodb.git"
+    "url": "git+https://github.com/mikinho/node-tv4-mongodb.git"
   },
   "keywords": [
     "format",
@@ -23,9 +23,9 @@
   "author": "Michael Welter <michael@yammm.com> (https://twitter.com/mikinho)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mikinho/tv4-mongodb/issues"
+    "url": "https://github.com/mikinho/node-tv4-mongodb/issues"
   },
-  "homepage": "https://github.com/mikinho/tv4-mongodb#readme",
+  "homepage": "https://github.com/mikinho/node-tv4-mongodb#readme",
   "dependencies": {
     "bson": "^1.0.1"
   },
